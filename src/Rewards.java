@@ -11,7 +11,7 @@ public class Rewards {
         long totalRewards = 0L;
 
         try {
-            Scanner transactions = new Scanner(new File("/Documents/git/Java/transactions1.txt"));
+            Scanner transactions = new Scanner(new File("transactions1.txt"));
             while (transactions.hasNextLine()) {
                 Double transaction = Double.valueOf(transactions.nextLine());
 
