@@ -67,5 +67,3 @@ persist/data
 persist/tmp
 
 tmp/
-
-*.iml
