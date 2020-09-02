@@ -61,7 +61,6 @@ full-stack
 
 # End of https://www.gitignore.io/api/java,macos,maven
 
-.idea/
 
 persist/data
 persist/tmp
